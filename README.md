@@ -13,3 +13,4 @@ A microservices-based food ordering platform featuring a Java Spring Cloud / Spr
   - `order-service`: Order processing service
   - `user-service`: User management service
   - `common-lib`: Shared backend utilities & DTOs
+"# SOA_Project" 
